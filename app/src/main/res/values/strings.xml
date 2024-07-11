@@ -4,7 +4,7 @@
     <string name="full_name">Пал Палыч</string>
     <string name="description">Супер специалист</string>
 
-    <string name="phone">=79241345492</string>
+    <string name="phone">+79241345492</string>
     <string name="instagram">instapalych</string>
     <string name="mail">palpalych@gmail.com</string>
 </resources>
